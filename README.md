@@ -27,6 +27,7 @@
   - [4. Code Review](#4-code-review)
   - [5. DDD](#5-ddd)
   - [6. TDD](#6-tdd)
+  - [마치며](#마치며)
 
 ## 1. Tech Stack
 
@@ -276,3 +277,9 @@ TDD를 조금더 원활하게 하기 위해서는 여러 방법론 및 구현법
 - [Red Green Blue](https://www.oreilly.com/library/view/modern-c-programming/9781941222423/f_0054.html)
 - [어떤 것들을 테스트 해야 하나요?](https://jojoldu.tistory.com/674)
 - [테스트 내 코드들 작성은 어떻게 하나요?](https://jojoldu.tistory.com/615)
+
+## 마치며
+
+긴 글을 읽느라 고생하셨습니다..!  
+너무 많은 사항들이 있어서, 한 번에 온보딩되기는 어려울 수 있어요.  
+그래서 저희와 커뮤니케이션하면서 조금씩, 조금씩 팀오투 개발팀 백엔드원의 일원이 될 수 있게 서로서로 노력해나갑시다 !
